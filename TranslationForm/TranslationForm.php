@@ -2,7 +2,7 @@
 
 namespace A2lix\TranslationFormBundle\TranslationForm;
 
-use Doctrine\Common\Persistence\ManagerRegistry;
+use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Component\Form\FormRegistry;
 
 /**
